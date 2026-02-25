@@ -1,6 +1,6 @@
 # Invoice Details Module
 
-A full-stack Invoice Details application built using:
+A Full Stack Invoice Details application built using:
 
 - Frontend: React (Web)
 - Backend: Node.js + Express
@@ -34,9 +34,8 @@ invoice-app/
 
 ## Setup Instructions
 
-### 1. Clone Repository
+### 1️⃣ Clone Repository
 
 ```bash
-git clone <https://github.com/sivateja-tech>
+git clone https://github.com/sivateja-tech/invoice-details-module.git
 cd invoice-app
-cd frontend
